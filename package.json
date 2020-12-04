@@ -59,7 +59,7 @@
     "string-similarity-js": "^2.1.2",
     "vanilla-lazyload": "^12.5.1",
     "vue-custom-scrollbar": "^1.2.0",
-    "vue-i18n": "^8.18.2",
+    "vue-i18n": "^8.22.1",
     "vue-text-highlight": "^2.0.10",
     "whatwg-fetch": "^3.0.0",
     "zrender": "^4.3.1"
