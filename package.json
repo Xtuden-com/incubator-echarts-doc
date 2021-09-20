@@ -62,6 +62,6 @@
     "vue-i18n": "^8.18.2",
     "vue-text-highlight": "^2.0.10",
     "whatwg-fetch": "^3.0.0",
-    "zrender": "^4.3.1"
+    "zrender": "^5.2.1"
   }
 }
